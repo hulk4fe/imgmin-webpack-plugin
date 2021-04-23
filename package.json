@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/me-hotel/imgmin-webpack-plugin/issues"
   },
-  "homepage": "https://github.com/me-hotel/imgmin-webpack-plugin#readme"
+  "homepage": "https://github.com/me-hotel/imgmin-webpack-plugin#readme",
+  "dependencies": {
+    "imagemin": "7.0.1",
+    "imagemin-mozjpeg": "9.0.0",
+    "imagemin-pngquant": "9.0.1",
+    "minimatch": "3.0.4",
+    "webpack-sources": "^2.2.0"
+  }
 }
